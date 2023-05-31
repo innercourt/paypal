@@ -5,3 +5,5 @@ amaka
 obim
 developers
 
+Deployment
+Development
