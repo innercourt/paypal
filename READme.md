@@ -1,0 +1,10 @@
+simon
+legah
+dominion
+landmark
+developers
+managers
+happy
+maintain
+deploy
+ready
